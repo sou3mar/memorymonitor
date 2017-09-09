@@ -1,0 +1,15 @@
+{
+  "name": "memorymonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Amirmohsen EKT",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "latest",
+    "os-monitor": "latest"
+  }
+}
