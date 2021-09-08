@@ -1,12 +1,16 @@
 {
   "name": "memorymonitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Amirmohsen EKT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sou3mar/memorymonitor.git"
+  },
+  "author": "Amirmohsen Ekhtiary",
   "license": "MIT",
   "dependencies": {
     "chalk": "latest",
